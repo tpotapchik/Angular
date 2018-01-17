@@ -13,10 +13,11 @@
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/heroes/heroes.component.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/heroes/heroes.component.spec.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/heroes/heroes.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/message.service.spec.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/message.service.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/messages/messages.component.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/messages/messages.component.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/messages/messages.component.ts" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/messsage.service.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/app/mock-heroes.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-tour-heroes/src/main.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/my-app/src/app/app.component.css" charset="UTF-8" />
